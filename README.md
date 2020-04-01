@@ -2,6 +2,7 @@
 #### Full instructions - [nvjob.github.io/unity/nvjob-stc-7](https://nvjob.github.io/unity/nvjob-stc-7)
 
 ![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/stc7/pic/0.jpg)
+![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/stc7/pic/7.jpg)
 
 This is a shader for SpeedTree version 7.x for Unity.<br>
 The shader has advanced settings compared to the standard Unity shader for SpeedTree. The shader fully functions in Forward Rendering and Deferred Rendering (including Subsurface Emission).<br>
@@ -20,6 +21,8 @@ On the processor level i3-8100, i5-6600, AMD Ryzen 3 1200, compilation time will
 There is an example in this asset to understand the operation and settings.
 
 <strong>I recommend</strong> importing this asset into a new project. Study the operation of the asset and copy the components you need to your project.
+
+The trees (Broadleaf, Palm) used in the examples are taken from the - [Free SpeedTrees Package](https://assetstore.unity.com/packages/3d/vegetation/speedtree/free-speedtrees-package-29170)
 
 <strong>Features:</strong><br>
 - Full wind setting.<br>
