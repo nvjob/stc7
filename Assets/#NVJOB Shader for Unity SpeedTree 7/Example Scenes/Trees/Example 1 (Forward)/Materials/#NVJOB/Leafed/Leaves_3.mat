@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Leaves_3
+  m_Shader: {fileID: 4800000, guid: 16cd40049c0cd984fb4bcf9943136eb4, type: 3}
+  m_ShaderKeywords: COLOR_TUNING EFFECT_ALBEDO EFFECT_BUMP EFFECT_EMISSION EFFECT_HUE_VARIATION
+    EFFECT_SPECULAR GEOM_TYPE_LEAF STC_GTYPE_LEAF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 2450
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 94d87dd676b3b1544b68162833a60342, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: b2edd3146a154b04f920f368b991d659, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionTex:
+        m_Texture: {fileID: 2800000, guid: 1b093e5b5bfc9f2499d6b4b471b68524, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 0bcb79ac3ca32d24e9aff1127883141d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecMap:
+        m_Texture: {fileID: 2800000, guid: 0da698a876d789c4ba93ba05e0c34d4f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BranchForceHeaviness: 1
+    - _BranchHeaviness: 1
+    - _BranchRipple: 0.8
+    - _BranchRippleSpeed: 0.5
+    - _BranchTurbulences: 1
+    - _BranchTwitch: 0.9
+    - _BranchWhip: 1
+    - _Brightness: 1
+    - _Contrast: 1.1
+    - _ContrastRef: 1.38
+    - _Cull: 0
+    - _Cutoff: 0.33
+    - _Gloss: 0.8
+    - _IntensityNm: 2
+    - _IntensityOc: 1
+    - _IntensityRef: 0.2
+    - _LeafRipple: 0.5
+    - _LeafRippleSpeed: 0.6
+    - _LeafTumble: 0.4
+    - _LeafTumbleSpeed: 0.7
+    - _Light: 0.7
+    - _Saturation: 1.42
+    - _SaturationRef: 1
+    - _Shadow_Cutoff: 0.1
+    - _Shininess: 0.05
+    - _SpecMapInts: 0.7
+    - _WindAmplitude: 1.3
+    - _WindConstantTilt: 1
+    - _WindDegreeSlope: 1.2
+    - _WindQuality: 4
+    - _WindSpeed: 0.6
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0.27058825, g: 0.19047803, b: 0.03529411, a: 0}
+    - _HueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
+    - _ReflectColor: {r: 1, g: 0.79921126, b: 0.736, a: 1}
+    - _SpecColor: {r: 0.45626652, g: 0.30804196, b: 0.07026506, a: 1}
+    - _SpecularColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
