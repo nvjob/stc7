@@ -3,11 +3,11 @@
 ![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/stc7/pic/0.jpg)
 ![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/stc7/pic/7.jpg)
 
-### Full instructions - [nvjob.github.io/unity/nvjob-stc-7](https://nvjob.github.io/unity/nvjob-stc-7)
-
 This is a shader for SpeedTree version 7.x for Unity.<br>
 The shader has advanced settings compared to the standard Unity shader for SpeedTree. The shader fully functions in Forward Rendering and Deferred Rendering (including Subsurface Emission).<br>
 Using this shader, you can adjust the wind (speed, amplitude, swaying branches, etc.). The wind settings in the shader, allow you to fix incorrectly configured wind settings in SpeedTree, as well as synchronize and adjust the wind for all vegetation separately.
+
+#### Full instructions - [nvjob.github.io/unity/nvjob-stc-7](https://nvjob.github.io/unity/nvjob-stc-7)
 
 -------------------------------------------------------------------
 
