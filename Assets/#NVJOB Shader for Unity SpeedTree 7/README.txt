@@ -1,4 +1,4 @@
-#NVJOB Shader for Unity SpeedTree 7 (STC)
+#NVJOB Shader for Unity SpeedTree 7 (STC7)
 
 This is a shader for SpeedTree version 7.x for Unity. 
 The shader has advanced settings compared to the standard Unity shader for SpeedTree. 

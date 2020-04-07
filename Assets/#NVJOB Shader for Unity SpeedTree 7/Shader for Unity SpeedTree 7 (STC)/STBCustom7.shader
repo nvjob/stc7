@@ -1,6 +1,6 @@
 // Copyright (c) 2016 Unity Technologies. MIT license - license_unity.txt
-// #NVJOB shader for SpeedTree 7 (STC). MIT license - license_nvjob.txt
-// #NVJOB shader for SpeedTree 7 V3.1 (STC) - https://nvjob.github.io/unity/nvjob-stc-7
+// #NVJOB shader for SpeedTree 7 (STC7). MIT license - license_nvjob.txt
+// #NVJOB shader for SpeedTree 7 (STC7) V3.1 - https://nvjob.github.io/unity/nvjob-stc-7
 // #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 
