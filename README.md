@@ -1,4 +1,4 @@
-# #NVJOB Shader for Unity SpeedTree 7 (STC7) 3.1
+# #NVJOB STC7 (Custom shader for SpeedTree 7)
 
 ![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/stc7/pic/0.jpg)
 ![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/stc7/pic/7.jpg)
