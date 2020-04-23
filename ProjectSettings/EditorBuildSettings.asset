@@ -6,15 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/#NVJOB Shader for Unity SpeedTree 7/Example Scenes/Scenes/Example
-      0 (Deferred).unity
+    path: Assets/#NVJOB STC7/Example Scenes/Scenes/Example 0 (Deferred).unity
     guid: 153b8154be91faa499dc806dfb7516d3
   - enabled: 1
-    path: Assets/#NVJOB Shader for Unity SpeedTree 7/Example Scenes/Scenes/Example
-      1 (Forward).unity
+    path: Assets/#NVJOB STC7/Example Scenes/Scenes/Example 1 (Forward).unity
     guid: 8dccc1a5c2782ec418e36d22cf43fe7c
   - enabled: 1
-    path: Assets/#NVJOB Shader for Unity SpeedTree 7/Example Scenes/Scenes/Example
-      2 (Deferred).unity
+    path: Assets/#NVJOB STC7/Example Scenes/Scenes/Example 2 (Deferred).unity
     guid: 63e81392deeee12498dbf23e65014e3b
   m_configObjects: {}
